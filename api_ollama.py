@@ -52,3 +52,6 @@ async def analyze_image(file: UploadFile = File(...)):
             os.remove(converted_image_path)
 
     return {"description": description}
+
+#ollama pull llava
+#pip install ollama
