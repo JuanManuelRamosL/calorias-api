@@ -4,3 +4,6 @@ ollama
 pillow
 pillow-heif
 python-multipart
+starlette
+sqlalchemy
+psycopg2-binary
